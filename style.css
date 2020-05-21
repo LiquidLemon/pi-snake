@@ -1,0 +1,10 @@
+#left, #right {
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+  background-color: #eeeeee;
+}
+#container {
+  display: none;
+}
